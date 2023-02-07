@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "/home/guilherme/opt/toolchain/crosstool-ng-1.25.0/.build/avr/src/gcc/configure --build=x86_64-build_pc-linux-gnu --host=x86_64-build_pc-linux-gnu --target=avr --prefix='/home/guilherme/opt/toolchain/crosstool-ng-1.25.0/~/opt/toolchain/x-tools/avr' '--exec_prefix=/home/guilherme/opt/toolchain/crosstool-ng-1.25.0/~/opt/toolchain/x-tools/avr' --with-local-prefix='/home/guilherme/opt/toolchain/crosstool-ng-1.25.0/~/opt/toolchain/x-tools/avr/avr' --with-headers='/home/guilherme/opt/toolchain/crosstool-ng-1.25.0/~/opt/toolchain/x-tools/avr/avr/include' --with-newlib --enable-threads=no --disable-shared --with-pkgversion='crosstool-NG 1.25.0' --disable-__cxa_atexit --disable-libgomp --disable-libmudflap --disable-libmpx --disable-libssp --disable-libquadmath --disable-libquadmath-support --disable-libstdcxx-verbose --with-gmp=/home/guilherme/opt/toolchain/crosstool-ng-1.25.0/.build/avr/buildtools --with-mpfr=/home/guilherme/opt/toolchain/crosstool-ng-1.25.0/.build/avr/buildtools --with-mpc=/home/guilherme/opt/toolchain/crosstool-ng-1.25.0/.build/avr/buildtools --with-isl=/home/guilherme/opt/toolchain/crosstool-ng-1.25.0/.build/avr/buildtools --enable-lto --enable-target-optspace --disable-nls --enable-multiarch --enable-languages=c,c++";
+static const char thread_model[] = "single";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { NULL, NULL} };

@@ -1,0 +1,6 @@
+python
+import sys
+sys.path.insert(0, '/home/guilherme/opt/toolchain/crosstool-ng-1.25.0/~/opt/toolchain/x-tools/avr/share/gcc-11.2.0/python')
+from libstdcxx.v6.printers import register_libstdcxx_printers
+register_libstdcxx_printers (None)
+end
